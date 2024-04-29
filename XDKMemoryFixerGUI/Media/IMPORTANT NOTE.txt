@@ -1,0 +1,7 @@
+- WHEN BUILDING A NAND APP -
+
+For some unknown reason .jpg images won't load when the app is being ran from 
+the nand and possibly other storage configs.
+
+To prevent this it's best to use .png files for all images which unfortunately 
+increase the file sizes massively.

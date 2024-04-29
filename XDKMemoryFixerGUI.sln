@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtgFramework", "XDKMemoryFixerGUI\Common\AtgFramework2010.vcxproj", "{91D208A6-9936-47FD-9659-67205C3EB0AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XDKMemoryFixerGUI", "XDKMemoryFixerGUI\XDKMemoryFixerGUI.vcxproj", "{652C7D60-BC02-4E09-96DD-930012345678}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xkelib", "XDKMemoryFixerGUI\xkelib\xkelib.vcxproj", "{83FEF217-22EE-4768-80BF-9F48D5B4564C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Rel_SectRes|Xbox 360 = Rel_SectRes|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D208A6-9936-47FD-9659-67205C3EB0AB}.Rel_SectRes|Xbox 360.ActiveCfg = Rel_Sect_Res|Xbox 360
+		{652C7D60-BC02-4E09-96DD-930012345678}.Rel_SectRes|Xbox 360.ActiveCfg = Rel_SectRes|Xbox 360
+		{652C7D60-BC02-4E09-96DD-930012345678}.Rel_SectRes|Xbox 360.Build.0 = Rel_SectRes|Xbox 360
+		{652C7D60-BC02-4E09-96DD-930012345678}.Rel_SectRes|Xbox 360.Deploy.0 = Rel_SectRes|Xbox 360
+		{83FEF217-22EE-4768-80BF-9F48D5B4564C}.Rel_SectRes|Xbox 360.ActiveCfg = Rel_Sect_Res|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8404F68-0862-4782-B33F-6FFBCF29C27C}
+	EndGlobalSection
+EndGlobal
